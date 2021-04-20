@@ -1,0 +1,46 @@
+
+	{
+		"content":  {"index": 0,
+        "author_id":4039718903,        
+		"serial_num": "ko.insta.0",\
+		"date": "2020-09-01",
+		"site_name": "instagram",
+		"content_sentence": "9월의 구매 혜택 안내입니다.",
+		"url": "https://www.instagram.com/p/CEk37N6HjQ-/",
+        "author_name":"snowmanflies",
+		
+		"nouns": [
+			"구매","결제"
+		]
+		"nouns1": [
+			,"tf":"10",
+
+		]
+			"nouns2": [
+			"idf": "3"
+		\
+		]
+
+
+		}
+        
+	},
+	{
+		"index": 1,
+		"serial_num": "ko.insta.0",
+		"date": "2020-09-01",
+		"dictIds": "bc카드 하나카드 신한카드 삼성카드 현대카드 kb국민카드 신용카드",
+		"site_name": "instagram",
+		"content_sentence": " 1. 150만원 이상 구매시 적립금 50 000원 지급 월 1회만 지급되며 지급 후 다음 결제시 사용 가능합니다.",
+		"url": "https://www.instagram.com/p/CEk37N6HjQ-/",
+		"nouns": [
+			"적립금",
+			"지급",
+			"지급",
+			"지급",
+			"다음",
+			"제시",
+			"사용",
+			"가능"
+		]
+	},
