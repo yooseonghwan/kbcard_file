@@ -1,7 +1,7 @@
 {
     "user": {
-        "author_id": "2117909275",
-        "author_name": "surim92"
+        "id": "2117909275",
+        "name": "surim92"
     },
     "following": [
         2290159360,
@@ -34,8 +34,8 @@
     ]
 }{
     "user": {
-        "author_id": "11830758656",
-        "author_name": "dandy_beauty_best"
+        "id": "11830758656",
+        "name": "dandy_beauty_best"
     },
     "following": [
         1636774400,
@@ -67,8 +67,8 @@
     ]
 }{
     "user": {
-        "author_id": "2060651776",
-        "author_name": "daehun.noh"
+        "id": "2060651776",
+        "name": "daehun.noh"
     },
     "following": [
         1244277248,
@@ -100,8 +100,8 @@
     ]
 }{
     "user": {
-        "author_id": "2290159360",
-        "author_name": "ssuni_1010"
+        "id": "2290159360",
+        "name": "ssuni_1010"
     },
     "following": [
         1428304384,
@@ -133,8 +133,8 @@
     ]
 }{
     "user": {
-        "author_id": "6064378624",
-        "author_name": "17_07_21__"
+        "id": "6064378624",
+        "name": "17_07_21__"
     },
     "following": [
         1428304384,
@@ -166,8 +166,8 @@
     ]
 }{
     "user": {
-        "author_id": "3180729088",
-        "author_name": "hyoneesis"
+        "id": "3180729088",
+        "name": "hyoneesis"
     },
     "following": [
         3180729088,
@@ -199,8 +199,8 @@
     ]
 }{
     "user": {
-        "author_id": "6123820032",
-        "author_name": "dony._.pic"
+        "id": "6123820032",
+        "name": "dony._.pic"
     },
     "following": [
         2290159360,
@@ -232,8 +232,8 @@
     ]
 }{
     "user": {
-        "author_id": "1572279296",
-        "author_name": "bartender73"
+        "id": "1572279296",
+        "name": "bartender73"
     },
     "following": [
         6825060352,
@@ -265,8 +265,8 @@
     ]
 }{
     "user": {
-        "author_id": "553850624",
-        "author_name": "tonysyndrome"
+        "id": "553850624",
+        "name": "tonysyndrome"
     },
     "following": [
         6825060352,
@@ -298,8 +298,8 @@
     ]
 }{
     "user": {
-        "author_id": "6108813056",
-        "author_name": "hyoo__ziin"
+        "id": "6108813056",
+        "name": "hyoo__ziin"
     },
     "following": [
         870192896,
@@ -331,8 +331,8 @@
     ]
 }{
     "user": {
-        "author_id": "870192896",
-        "author_name": "jenyandycookie"
+        "id": "870192896",
+        "name": "jenyandycookie"
     },
     "following": [
         2060651776,
@@ -364,8 +364,8 @@
     ]
 }{
     "user": {
-        "author_id": "2937657344",
-        "author_name": "petit_pisces"
+        "id": "2937657344",
+        "name": "petit_pisces"
     },
     "following": [
         553850624,
@@ -397,8 +397,8 @@
     ]
 }{
     "user": {
-        "author_id": "11198142464",
-        "author_name": "__seeyoutomorrow__"
+        "id": "11198142464",
+        "name": "__seeyoutomorrow__"
     },
     "following": [
         2060651776,
